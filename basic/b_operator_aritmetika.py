@@ -14,3 +14,12 @@ print(kali)
 print(bagi)
 print(floor_div)
 print(pangkat)
+
+
+# Review
+
+x = 7
+y = 2
+
+resutl = x / y
+print(resutl)
